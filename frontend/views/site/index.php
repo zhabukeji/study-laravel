@@ -1,3 +1,4 @@
+<? $this->title = '首页 | 玩趣' ?>
 <!-- header start -->
 <header class="am-g am-g-fixed blog-fixed blog-text-center blog-header">
     <div id="banner" class="am-u-sm-8 am-u-sm-centered">
